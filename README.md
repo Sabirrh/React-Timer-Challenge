@@ -52,6 +52,11 @@ Whether you’re practicing your focus, demonstrating React hooks mastery, or ju
 - Communicating between parent and child components with `forwardRef`.
 - Handling user input, modals, and timing logic in React.
 
+📸 Preview
+
+🎨 A clean, minimal interface that’s both playful and professional.
+[ScreenShoot](./src/assets/Screenshoot.png)
+
 ## 💻 Getting Started
 
 ```bash
@@ -67,11 +72,6 @@ npm install
 # Start development server
 npm start
 
-
-📸 Preview
-
-🎨 A clean, minimal interface that’s both playful and professional.
-[ScreenShoot](./src/assets/Screenshoot.png)
 
 🏁 Future Improvements
 
